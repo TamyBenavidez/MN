@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.log
+.DS_Store
