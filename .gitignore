@@ -4,3 +4,18 @@ Taller1/
 __pycache__/
 Taller1/logoEpn.jpg:Zone.Identifier
 Taller1/logoEpn.jpg
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.log
+.DS_Store
