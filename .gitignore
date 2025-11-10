@@ -30,7 +30,6 @@ __pycache__/
 # Archivos de salida (no se suben al repo) ---
 *.pdf
 *.png
-*.jpg
 *.jpeg
 
 # --- Archivos del sistema ---
