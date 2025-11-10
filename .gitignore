@@ -17,5 +17,22 @@ __pycache__/
 *.pyc
 
 # Archivos temporales
+*.aux
 *.log
+*.out
+*.toc
+*.tex
+
+# Archivos de configuración de entorno
+.env
+.venv
+
+# Archivos de salida (no se suben al repo) ---
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# --- Archivos del sistema ---
 .DS_Store
+Thumbs.db
