@@ -1,0 +1,10 @@
+CursoPythonCisco/
+.vscode/
+__pycache__/
+*:Zone.Identifier
+*.log
+*.aux
+Taller1/
+*:Zone.Identifier
+.venv/
+.virtual_documents/
